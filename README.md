@@ -16,7 +16,7 @@ I'm mmeshok (22 y.o.). I'm studying for a master's degree in Heat and Power Engi
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-Often used:
+Regulat use:
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
