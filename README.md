@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm mmeshok (22 y.o.). I'm studying for a master's degree in Heat and Power Engineering at St.Peterburg Polytechnic University. I've been studying python and machine learning for the past 2 years. I've completed ML Start course at [karpov.courses](https://karpov.courses/) and continued my studies with ML Simulator ([check my progress](https://lab.karpov.courses/live_certificate/490fa043-4155-4d47-a453-5d939cd7dfbb/)). 
+I'm mmeshok (22 y.o.). I'm studying for a master's degree in Heat and Power Engineering at St.Petersburg Polytechnic University. I've been studying python and machine learning for the past 2 years. I've completed ML Start course at [karpov.courses](https://karpov.courses/) and continued my studies with ML Simulator ([check my progress](https://lab.karpov.courses/live_certificate/490fa043-4155-4d47-a453-5d939cd7dfbb/)). 
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
