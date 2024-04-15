@@ -40,7 +40,7 @@ Had experience with:
 ---
 
 ### :sunglasses: Hobbies :
-I'm an avid anime and vtubers enjoer (Gura is my oshi 🔱), and manhwa reader:books:.
+I'm an avid anime and vtubers enjoer (Gura is my oshi 🔱), and manhwa reader :books:.
 
 My weeb socials:
 <div id="badges">
