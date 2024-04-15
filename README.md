@@ -1,6 +1,6 @@
 <div id="badges">
-  <a href="t.me/sadmau">
-    <img src="https://img.shields.io/badge/sadmau-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="t.me/m_meshok">
+    <img src="https://img.shields.io/badge/m_meshok-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://twitter.com/mmmeshok">
     <img src="https://img.shields.io/badge/mmmeshok-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
