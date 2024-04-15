@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="t.me/m_meshok">
+  <a href="https://t.me/m_meshok">
     <img src="https://img.shields.io/badge/m__meshok-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://twitter.com/mmmeshok">
